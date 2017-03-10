@@ -1,0 +1,39 @@
+{
+    "cities":[
+   		{
+			"name": "Amarillo",
+			"url_name": "Amarillo",
+			"state": "TX",
+			"lat": 0,
+			"lon": 0
+   		},
+   		{
+			"name": "Hermleigh",
+			"url_name": "Hermleigh",
+			"state": "TX",
+			"lat": 0,
+			"lon": 0
+   		},
+   		{
+			"name": "Seattle",
+			"url_name": "Seattle",
+			"state": "WA",
+			"lat": 0,
+			"lon": 0
+   		},
+   		{
+			"name": "Raleigh",
+			"url_name": "Raleigh",
+			"state": "NC",
+			"lat": 0,
+			"lon": 0
+   		},
+   		{
+			"name": "Austin",
+			"url_name": "Austin",
+			"state": "TX",
+			"lat": 0,
+			"lon": 0
+        }
+    ]
+}
